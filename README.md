@@ -1,11 +1,19 @@
 ## Images
 
-desc    |  img  | code
- ---:    | :---: | :---:
-info     | ![i](info.png) | `![i](/i.png)`
-warning  | ![!](warn.png) | `![!](/i/w.png)`
-question | ![?](q.png) | `![?](/i/q.png)`
-pin      | ![pi](pin.png) | `![pi](/i/p.png)`
-ok       | ![ok](ok.png) | `![ok](/i/o.png)`
-no       | ![no](no.png) | `![no](/i/n.png)`
-fire     | ![fi](fire.png) | `![fi](/i/f.png)`
+| desc           | img           | code           |
+| -------------: | :-----------: | :------------- |
+| **a**dd        |  ![](a.png)   |  `![](a.png)`  |
+| **b**ook       |  ![](b.png)   |  `![](b.png)`  |
+| **c**ancel     |  ![](c.png)   |  `![](c.png)`  |
+| **f**ire       |  ![](f.png)   |  `![](f.png)`  |
+| bu**g**        |  ![](g.png)   |  `![](g.png)`  |
+| **h**eart      |  ![](h.png)   |  `![](h.png)`  |
+| **i**nfo       |  ![](i.png)   |  `![](i.png)`  |
+| **k**ey        |  ![](k.png)   |  `![](k.png)`  |
+| **l**amp       |  ![](l.png)   |  `![](l.png)`  |
+| **q**uestion   |  ![](q.png)   |  `![](q.png)`  |
+| chek           |  ![](v.png)   |  `![](v.png)`  |
+| check **c**ube |  ![](vc.png)  |  `![](vc.png)` |
+| **w**arning    |  ![](w.png)   |  `![](w.png)`  |
+| delete         |  ![](x.png)   |  `![](x.png)`  |
+| del **c**ube   |  ![](xc.png)  |  `![](xc.png)` |
