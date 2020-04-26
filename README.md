@@ -13,7 +13,7 @@
 | **l**amp       |  ![](l.png)   |  `![](l.png)`  |
 | **q**uestion   |  ![](q.png)   |  `![](q.png)`  |
 | chek           |  ![](v.png)   |  `![](v.png)`  |
-| check **c**ube |  ![](vc.png)  |  `![](vc.png)` |
-| **w**arning    |  ![](w.png)   |  `![](w.png)`  |
 | delete         |  ![](x.png)   |  `![](x.png)`  |
-| del **c**ube   |  ![](xc.png)  |  `![](xc.png)` |
+| check **c**ube |  ![](vc.png)  |  `![](vc.png)` |
+| delete **c**ube|  ![](xc.png)  |  `![](xc.png)` |
+| **w**arning    |  ![](w.png)   |  `![](w.png)`  |
